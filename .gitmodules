@@ -1,0 +1,3 @@
+[submodule "lib/wibrick-wire"]
+	path = lib/wibrick-wire
+	url = https://github.com/WiBrickOrg/WiBrick-Wire.git
