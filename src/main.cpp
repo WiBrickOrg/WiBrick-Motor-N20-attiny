@@ -1,5 +1,5 @@
 #include "Arduino.h"
-#include "../lib/wibrick-wire/wiwire-slave.h"
+#include "../lib/wibrick-wire/slave/wiwire-slave.h"
 
 #define myAddr 0x01
 // #define myAddr 0x02
